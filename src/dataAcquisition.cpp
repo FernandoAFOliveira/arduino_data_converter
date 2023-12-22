@@ -3,7 +3,7 @@
 
 #include <Arduino.h>
 
-int AnalogPin_AN1 = A0;    // select the input pin
+int AnalogPin_AN1 = A5;    // select the input pin
 
 void setup() 
 {
